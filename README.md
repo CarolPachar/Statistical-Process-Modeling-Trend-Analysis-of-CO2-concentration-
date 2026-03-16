@@ -1,2 +1,2 @@
 # Statistical-Process-Modeling-Trend-Analysis-of-CO2-concentration-
-A time-series analysis of atmospheric CO2 trends using 60+ years of high-resolution sensor data. The project implements a statistical pipeline featuring data cleaning (NaN handling), linear/quadratic regression modeling, and residual analysis to isolate seasonal cycles from long-term trajectories.
+A time-series analysis of atmospheric CO2 trends using 60+ years of high-resolution sensor data. The project implements a statistical pipeline featuring data cleaning (NaN handling), linear/quadratic regression modeling, and residual analysis to isolate seasonal cycles from long-term trajectories. For the code, refer to HW_10_3.pdf. The csv file contains the dataset used for this analysis. 
